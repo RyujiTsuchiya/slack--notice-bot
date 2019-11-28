@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # slack-notice-bot
-=======
-# Slack-Weather-Bot program
 
 
 - Written in Ruby 2.6.5
@@ -35,4 +32,4 @@ Please refer to the following url <br>
 ```
    $ ruby bot.rb
 ```
->>>>>>> create slack-notice-bot
+ create slack-notice-bot
