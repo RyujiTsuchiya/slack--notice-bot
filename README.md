@@ -3,16 +3,16 @@
 
 - Written in Ruby 2.6.5
 - slack-ruby-client 0.14.4
-- You need to get an API token to action the bot
+- You need to get an API token 
 
 
-### get Slack API-TOKEN <br>
+## How to get 
 Please refer to the following url <br>
    https://api.slack.com/
 
 ## How to start
 
-1. clone and setup
+1. Clone and setup
 
 ```
    $ git clone https://github.com/RyujiTsuchiya/slack-notice-bot
@@ -27,9 +27,8 @@ Please refer to the following url <br>
    $ vi config.rb  
 ```
 
-3. run slack-notice-bot
+3. Run slack-notice-bot
 
 ```
    $ ruby bot.rb
 ```
- create slack-notice-bot
