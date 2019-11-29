@@ -22,7 +22,6 @@ Please refer to the following url <br>
 ```
 2. Create and edit the config.rb file
 ```
-   $ vi config.rb
    $ cp config.rb.example config.rb
    $ vi config.rb  
 ```
